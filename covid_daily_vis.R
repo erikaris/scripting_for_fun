@@ -1,3 +1,5 @@
+# Data is taken from https://kawalcovid19.blob.core.windows.net/viz/statistik_harian.html
+
 library(readr)
 library(tidyverse)
 library(ggplot2)

@@ -21,6 +21,9 @@ It's strongly encouraged that you already have a Twitter Account in order to be 
 5. Go to the tab 'Keys and tokens' and generate the access token and access token secret. <br />
 ![Alt text](./app_details4.png)
 
+6. Save the tokens by copying it to notepad or other text editors. <br />
+![Alt text](./save_tokens.png)
+
 
 ## II. Installing the Required Libraries
 ```

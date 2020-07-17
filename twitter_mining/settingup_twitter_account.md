@@ -6,6 +6,9 @@ It's strongly encouraged that you already have a Twitter Account in order to be 
 1. Login to [developer.twitter.com](https://developer.twitter.com/en/apps) using your Twitter credentials (user name and password). 
 2. Create new app to obtain keys and tokens. 
 ![Alt text](./create_apps.png)
+3. Fill up all the required fields. 
+![Alt text](./app_details1.png)
+![Alt text](./app_details2.png)
 
 ## Installing the Required Libraries
 ```

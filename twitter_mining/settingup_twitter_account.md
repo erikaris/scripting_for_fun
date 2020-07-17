@@ -11,6 +11,8 @@ It's strongly encouraged that you already have a Twitter Account in order to be 
 3. Fill up all the required fields and hit the 'create' button.  <br />
 ![Alt text](./app_details1.png)   
 
+![Alt text](./app_details2b.png)   
+
 ![Alt text](./app_details2.png)
 
 4. Review the developer teams and hit the 'create' button. <br />

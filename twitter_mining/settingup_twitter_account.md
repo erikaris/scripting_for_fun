@@ -13,6 +13,12 @@ It's strongly encouraged that you already have a Twitter Account in order to be 
 
 ![Alt text](./app_details2.png)
 
+4. Review the developer teams and hit the 'create' button. <br />
+![Alt text](./app_details3.png)
+
+5. Go to the tab 'Keys and tokens' and generate the access token and access token secret. <br />
+![Alt text](./app_details4.png)
+
 
 ## Installing the Required Libraries
 ```

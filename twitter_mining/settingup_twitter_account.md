@@ -8,8 +8,8 @@ It's strongly encouraged that you already have a Twitter Account in order to be 
 2. Create new app to obtain keys and tokens. 
 ![Alt text](./create_apps.png)
 
-3. Fill up all the required fields. 
-![Alt text](./app_details1.png)
+3. Fill up all the required fields.  <br />
+![Alt text](./app_details1.png)   
 
 ![Alt text](./app_details2.png)
 

@@ -6,7 +6,7 @@ It's strongly encouraged that you already have a Twitter Account in order to be 
 1. Login to [developer.twitter.com](https://developer.twitter.com/en/apps) using your Twitter credentials (user name and password). 
 
 2. Create new app to obtain keys and tokens. 
-![Alt text](./create_apps.png)
+![Alt text](./create_apps.png width="200")
 
 3. Fill up all the required fields and hit the 'create' button.  <br />
 ![Alt text](./app_details1.png)   
@@ -29,7 +29,12 @@ It's strongly encouraged that you already have a Twitter Account in order to be 
 
 ## II. Installing the Required Libraries
 ```
-install.packages('rtweet')
+install.packages("rtweet")        # R client for accessing Twitter's REST and stream APIs
+install.packages("wordcloud")     # for creating wordcloud
+install.packages("tidyverse")
+install.packages("igraph")        # for creating network graph
+install.packages("tm")            # for text mining
+install.packages("RColorBrewer")  # for coloring things
 ```
 
 

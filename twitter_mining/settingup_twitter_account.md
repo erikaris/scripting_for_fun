@@ -24,6 +24,8 @@ It's strongly encouraged that you already have a Twitter Account in order to be 
 6. Save the tokens by copying it to notepad or other text editors. <br />
 ![Alt text](./save_tokens.png)
 
+7. You're all set!
+
 
 ## II. Installing the Required Libraries
 ```
